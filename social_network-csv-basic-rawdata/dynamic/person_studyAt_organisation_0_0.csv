@@ -1,4 +1,4 @@
-creationDate|deletionDate|explicitlyDeleted|Person.id|Organisation.id|classYear
+creationDate|deletionDate|explicitlyDeleted|Person.id|University.id|classYear
 2011-07-26T21:41:34.142+00:00|2019-12-30T00:00:00.000+00:00|false|19791209299968|3011|2005
 2010-09-27T09:37:30.742+00:00|2012-01-31T17:29:45.363+00:00|true|8796093022249|3010|2006
 2012-08-09T21:35:41.016+00:00|2019-12-30T00:00:00.000+00:00|false|32985348833329|3008|1999

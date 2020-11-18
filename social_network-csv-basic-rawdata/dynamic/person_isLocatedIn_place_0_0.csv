@@ -1,4 +1,4 @@
-creationDate|deletionDate|explicitlyDeleted|Person.id|Place.id
+creationDate|deletionDate|explicitlyDeleted|Person.id|City.id
 2011-07-26T21:41:34.142+00:00|2019-12-30T00:00:00.000+00:00|false|19791209299968|285
 2011-12-29T07:56:39.032+00:00|2019-12-30T00:00:00.000+00:00|false|24189255811081|510
 2010-09-27T09:37:30.742+00:00|2012-01-31T17:29:45.363+00:00|true|8796093022249|185

@@ -1,4 +1,4 @@
-creationDate|id|firstName|lastName|gender|birthday|locationIP|browserUsed|place
+creationDate|id|firstName|lastName|gender|birthday|locationIP|browserUsed|isLocatedIn
 2011-07-26T21:41:34.142+00:00|19791209299968|John|Khan|male|1985-02-24|27.4.90.237|Internet Explorer|285
 2011-12-29T07:56:39.032+00:00|24189255811081|Alim|Guliyev|female|1984-10-07|91.191.192.127|Firefox|510
 2012-08-09T21:35:41.016+00:00|32985348833329|Ashok|Singh|male|1981-03-31|49.206.89.61|Safari|144
