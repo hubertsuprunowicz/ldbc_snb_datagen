@@ -1,4 +1,4 @@
-creationDate|deletionDate|id|firstName|lastName|gender|birthday|locationIP|browserUsed|isLocatedIn|speaks|email
+creationDate|deletionDate|id|firstName|lastName|gender|birthday|locationIP|browserUsed|place|language|email
 2011-07-26T21:41:34.142+00:00|2019-12-30T00:00:00.000+00:00|19791209299968|John|Khan|male|1985-02-24|27.4.90.237|Internet Explorer|285|te;ur;en|John19791209299968@gmail.com;John19791209299968@gmail.com;John19791209299968@gmail.com;John19791209299968@gmail.com
 2011-12-29T07:56:39.032+00:00|2019-12-30T00:00:00.000+00:00|24189255811081|Alim|Guliyev|female|1984-10-07|91.191.192.127|Firefox|510|az;ru;en|Alim24189255811081@gmail.com;Alim24189255811081@gmail.com
 2010-09-27T09:37:30.742+00:00|2012-01-31T17:29:45.363+00:00|8796093022249|John|Kumar|male|1986-08-22|27.116.33.147|Safari|185|gu;mr;en|John8796093022249@gmail.com;John8796093022249@gmail.com
